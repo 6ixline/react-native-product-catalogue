@@ -259,7 +259,7 @@ This app implements multiple layers of screen protection to prevent data leaks t
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/6ixline/react-native-parts-catalogue.git
+git clone https://github.com/6ixline/react-native-product-catalogue.git
 cd react-native-parts-catalogue
 
 # 2. Install dependencies
